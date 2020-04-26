@@ -2,6 +2,8 @@
 
 The [Otago Optics Chapter](https://www.otago.ac.nz/physics/postgraduate/current-students/osa-spie-university-of-otago-student-chapters.html) is back with another exciting photo competition: **Capture Science: Motion and Time**
 
+![Capture Science: Motion and Time Header](capture_science/header.png)
+
 <!---
 **TO DO:  Include banner here (or somewhere else), inc. credit to “Shae MacMillan, Prize Winner, Capture Science: Energy and Forces”**
 --->
