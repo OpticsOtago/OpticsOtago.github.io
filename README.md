@@ -1,3 +1,3 @@
 # Otago Optics Chapter Website
 
-Currently under construction
+This repository is the website for the [Otago Optics Chapter](https://opticsotago.github.io/)

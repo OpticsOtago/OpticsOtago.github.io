@@ -1,4 +1,4 @@
-## Otago Optics Chapter
+## Capture Science
 
 The [Otago Optics Chapter](https://www.otago.ac.nz/physics/postgraduate/current-students/osa-spie-university-of-otago-student-chapters.html) is back with another exciting photo competition: **Capture Science: Motion and Time**
 
