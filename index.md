@@ -1,13 +1,12 @@
 ---
 layout: halfpage
 bigimg: capture_science/banner.jpg
-big_img_label: Capture Science 2020: Motion and Time
+big_img_label: "Capture Science 2020: Motion and Time"
 ---
 <div style="text-align: right; font-size: 10pt;">
 Banner image: Shae MacMillan, Prize Winner, Capture Science: Energy and Forces
 </div>
 
-## Capture Science
 The [Otago Optics Chapter](https://www.otago.ac.nz/physics/postgraduate/current-students/osa-spie-university-of-otago-student-chapters.html) is back with another exciting photo competition: **Capture Science: Motion and Time**
 
 
