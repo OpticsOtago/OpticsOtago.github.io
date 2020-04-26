@@ -4,9 +4,10 @@ The [Otago Optics Chapter](https://www.otago.ac.nz/physics/postgraduate/current-
 
 ![Capture Science: Motion and Time Header](capture_science/header.png)
 
-<!---
-**TO DO:  Include banner here (or somewhere else), inc. credit to “Shae MacMillan, Prize Winner, Capture Science: Energy and Forces”**
---->
+<div style="text-align: right; font-size: 10pt;">
+Banner image: Shae MacMillan, Prize Winner, Capture Science: Energy and Forces
+</div>
+
 
 The photography competition encourages entrants to explore the science of the incredible world around us. Entry to the photo competition is free, and open to people of all ages and photography skill levels. Each entry should be accompanied by a 30-150 word caption that includes an explanation of some science present in the photo. The photo and caption will be judged on three criteria: 
 
