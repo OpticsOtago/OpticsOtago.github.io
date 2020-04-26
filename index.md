@@ -1,12 +1,14 @@
-## Capture Science
-
-The [Otago Optics Chapter](https://www.otago.ac.nz/physics/postgraduate/current-students/osa-spie-university-of-otago-student-chapters.html) is back with another exciting photo competition: **Capture Science: Motion and Time**
-
-![Capture Science: Motion and Time Header](capture_science/header.png)
-
+---
+layout: half-page
+bigimg: capture_science/banner.jpg
+big_img_label: Capture Science 2020: Motion and Time
+---
 <div style="text-align: right; font-size: 10pt;">
 Banner image: Shae MacMillan, Prize Winner, Capture Science: Energy and Forces
 </div>
+
+## Capture Science
+The [Otago Optics Chapter](https://www.otago.ac.nz/physics/postgraduate/current-students/osa-spie-university-of-otago-student-chapters.html) is back with another exciting photo competition: **Capture Science: Motion and Time**
 
 
 The photography competition encourages entrants to explore the science of the incredible world around us. Entry to the photo competition is free, and open to people of all ages and photography skill levels. Each entry should be accompanied by a 30-150 word caption that includes an explanation of some science present in the photo. The photo and caption will be judged on three criteria: 

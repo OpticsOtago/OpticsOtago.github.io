@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,maximum-scale=2,initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <style type="text/css">      
+        body, html {
+            height: 100%;
+            margin: 0;
+        }
+        
+        .bigimg {
+        position: relative;
+        opacity: 0.65;
+        background-position: centre;
+        background-repeat: no-repeat;
+        background-size: cover;
+
+        }
+        .bigimg{
+        background-image: url("{{page.bigimg}}");
+        height: 50%;
+        }
+
+        .bigimg .caption {
+        position: absolute;
+        left: 0;
+        top: 50%;
+        width: 100%;
+        text-align: center;
+        color: #000;
+        }
+
+        .bigimg .caption span.border {
+        background-color:#0006;
+        color: #fff;
+        padding: 18px;
+        font-size: 25px;
+        }
+    </style>
+
+{% seo %}
+  </head>
+
+  <body>
+
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+        
+          <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
+          <h2 id="project_tagline">{{ site.description}}</h2>
+    
+        </header>
+    </div>
+    <div class="bigimg">
+      <div class="caption">
+         <span class="border">{{ page.big_img_label }}</span>
+      </div>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        {{ content }}
+      </section>
+    </div>
+
+    <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+        <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
+      </footer>
+    </div>
+  </body>
+</html>
