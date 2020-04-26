@@ -1,5 +1,5 @@
 ---
-layout: half-page
+layout: halfpage
 bigimg: capture_science/banner.jpg
 big_img_label: Capture Science 2020: Motion and Time
 ---
