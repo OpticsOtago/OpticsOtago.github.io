@@ -17,7 +17,7 @@ The photography competition encourages entrants to explore the science of the in
 2. aesthetic appeal, and 
 3. the level of clarity of the science portrayed and described in the caption.
 
-Entries close at 5pm on Sunday **14th June 2020**
+Entries close at 5pm on Sunday **21st June 2020**
 
 <div style="text-align:center">
 <div class="ui huge teal button" onclick="window.location.href='https://script.google.com/macros/s/AKfycbyzSzqk1UKLFz9f3azIW9mSWPzLGfnmMXPea0L8ohv4CIe5H8rM/exec';">Enter Here</div>
