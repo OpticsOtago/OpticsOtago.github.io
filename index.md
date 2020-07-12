@@ -17,19 +17,8 @@ The photography competition encourages entrants to explore the science of the in
 2. aesthetic appeal, and 
 3. the level of clarity of the science portrayed and described in the caption.
 
-Entries close at 5pm on Sunday **21st June 2020**
+[Entriies have closed, and you can now view all the entries here!](https://opticsotago.github.io/CaptSci2020/)
 
-<div style="text-align:center">
-<div class="ui huge teal button" onclick="window.location.href='https://script.google.com/macros/s/AKfycbyzSzqk1UKLFz9f3azIW9mSWPzLGfnmMXPea0L8ohv4CIe5H8rM/exec';">Enter Here</div>
-</div>
-
-Please see the [terms and conditions](https://docs.google.com/document/d/e/2PACX-1vQkIJuqqFZbrSGHHHR2jmQAMIKrC7Cq9knv3p0_ouwk3ZDGv3HpsuQXNPFz936n6_waACNrTo1pAnHK/pub).
-
-<!---
-, and to submit your photograph entries, click the button below
-**TO DO: ADD BUTTON**
-Follow the even on [Facebook]() **TO DO: LINK TO FB EVENT ONCE CREATED**
---->
 ## Exhibition
 After the competition there will be an exhibition to display the top entries
  - When: **11th - 19th July**
