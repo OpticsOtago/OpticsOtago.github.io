@@ -5,11 +5,12 @@ big_img_label: "On a Collision Course with Lasers and Atoms"
 ---
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/semantic-ui@2.4.2/dist/semantic.min.css">
 
-Public lecture by Professor Niels Kjærgaard, hosted by the Otago Optics Chapter and Quantum Science Otago
+The Otago Optics Chapter is excited to host a public lecture by Professor Niels Kjærgaard, in conjuction with Quantum Science Otago.
 
 ### Details
 - 4:00 - 5:00pm, Thursday 29 October 2020
 - Barclay Theatre, Otago Museum, Dunedin
+
 ### Outline
 My talk will describe my academic journey to where I am today.
 After introducing atoms and lasers as concepts to set the scene (and I plan to bring along a
