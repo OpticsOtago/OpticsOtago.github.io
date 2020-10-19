@@ -14,31 +14,16 @@ The Otago Optics Chapter is excited to host a public lecture by Professor Niels 
 ### Outline
 My talk will describe my academic journey to where I am today.
 
-After introducing atoms and lasers as concepts to set the scene (and I plan to bring along a
-laser I built for the occasion), I will look at some everyday physical phenomena that I found
-intriguing as a child and present some of the historic danish Physicists (Brahe, Rømer,
-Ørsted and Bohr) that I encountered on my course through the danish educational system
-and who all revolutionized the way we look at the World.
+After introducing atoms and lasers as concepts to set the scene, I will look  at some everyday physical phenomena that I found intriguing as a child  and present some of the historic Danish Physicists (Brahe, Rømer, Ørsted and Bohr) that I encountered on my  course through the Danish educational system and who all revolutionized  the way we look at the World.
 
-I will give an account of my postgraduate studies where I started out as an accelerator
-physicists and completed my PhD building an ion trap and introduced photoionization as
-tool to get ions into the trap. This will include demonstration of the trapping and
-observation of a single atomic particle. In particular, I will highlight some sources for
-inspiration from my graduate studies years that shaped my future trajectory.
+I  will give an account of my postgraduate studies, where I started out as  an accelerator physicists and completed my PhD building an ion trap,  introducing photoionization as tool to get ions into the trap. This included the demonstration of the trapping and  observation of a single atomic particle. In particular, I will highlight some sources for inspiration from my graduate studies years that shaped my future trajectory. 
 
-I will briefly touch up on the two postdocs that I did (one at Risø National Laboratory and
-one at Otago), before giving a fuller account of my time at the famous Niels Bohr Institute
-where I was part of a tour de force experiment that demonstrated the first reduction of
-quantum mechanical noise on the cesium atomic clock transition – a landmark result in
-atomic physics and quantum technology, published in PNAS.
+I  will briefly touch up on the two postdocs that I did (one at Risø  National Laboratory and one at Otago), before giving a fuller account of my time at the famous Niels Bohr Institute where I was part of a tour de force experiment that demonstrated the first  reduction of quantum mechanical noise on the caesium atomic clock  transition – a landmark result in atomic physics and quantum technology.
 
-I will spend two slides accounting for my time at the Danish Institute for Metrology (DFM)
-where I built a setup for performing laser spectroscopy on isotopologues of carbon-dioxide
-for trace analysis.
+Finally, I turn to show some of the results we have achieved with our laser  based collider at Otago over the past decade. This will illustrate that  there are two kind of particles – bosons and fermions – and the profound impact of indistinguishability on  identical particles colliding – a uniquely quantum mechanical feature.
 
-I will finally turn to show some of the results we have achieved with our laser based collider
-at Otago over the past decade. This will focus on a single strand of my research (dispersive
-probing and Rydberg atoms being the other two) and will be limited to a few select results
-that illustrates that there are two kind of particles – bosons and fermions – and the
-profound impact of indistinguishability on identical particles colliding – a uniquely quantum
-mechanical feature.
+#### Bio
+
+<small>Niels  Kjærgaard was born in Vejle, Denmark, in1973. He received the  M.Sc. and Ph.D. degrees in Physics from the University of Aarhus,  Denmark, in 1999 and 2001, respectively. From 2001 to 2003 he a was a Post Doc. at Risø National  Laboratory, Denmark, and from 2003-2005 he was a Postdoctoral  Fellow at the University of Otago, New Zealand. He was an  Assistant Research Professor (2005-2008) and Associate Re-search Professor (2008-2009) at the Niels Bohr Institute, Copenhagen, Denmark. In 2010 he was a Staff Scientist at the Danish Institute  for Fundamental Metrology. He is currently a Professor of  Physics at the University of Otago, New Zealand, where his research group uses a laser-based collider  to perform scattering experiments on ultracold atomic gases. More  generally his research is concerned with using ultracold atoms as a  resource for quantum technologies. 
+
+Prof.  Kjærgaard is a member of The Optical Society and has  previously served as an Associate Editor for Journal of Modern  Optics. He currently serves as Editorial Board Member of Scientific Reports and Associate Editor of Journal of the  Royal Society of New Zealand. Since 2015 he has been a  co-Director of QSO-Centre of Quantum Science at the University of Otago.</small>
