@@ -8,7 +8,9 @@ bigimg2: ./FooterJPEG.jpg
 
 The [Otago Optics Chapter](https://www.otago.ac.nz/physics/postgraduate/current-students/osa-spie-university-of-otago-student-chapters.html) are excited to announce the return of our yearly photo competition, **Capture Science**! This year the theme is **Order & Chaos.**
 
-Our photography competitions encourage entrants to explore the science of the incredible world around us. Entry to the photo competition is free, and open to people of all ages and photography skill levels in Otago/Southland. Each entry should be accompanied by a 30-150 word caption that includes an explanation of some science present in the photo. The photo and caption is judged on three criteria: 
+Just like science, our theme this year is very broad. Anywhere you see patterns and structure, big or small, there is often some incredible science creating order we want you to capture. But nature also has a habit of breaking out of a nice orderly box, to keep the world exciting, dynamic and chaotic. In your entries we want to see your perspective on the spectacular science driving the world around us.
+
+Entry to the photo competition is free, and open to people of all ages and photography skill levels in Otago/Southland. Each entry should be accompanied by a 30-150 word caption that includes an explanation of some science present in the photo. The photo and caption is judged on three criteria: 
 
 1. Originality,
 2. aesthetic appeal, and 
