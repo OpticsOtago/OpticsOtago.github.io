@@ -21,9 +21,9 @@ You can find the Term and Conditions of the competition [here](https://docs.goog
 
 The winning entries will be exhibited at the Otago Museum (419 Great King Street, Dunedin), exact date TBC. Follow this page or our [Facebook event page](https://fb.me/e/DpNgCDON) for latest details. **Entries close 15 August 2021.**
 
-<p style="text-align: center; font-weight: bold;">ENTER HERE SOON</p>
+<p style="text-align: center; font-weight: bold;"><a href="https://script.google.com/macros/s/AKfycbyUSAIsT1FFdIC9VGqy3Z0nGHqKbLVJ2S9iY9zt-91SVJvgr2N8ljXI6yIW1lWh1Iw5LA/exec">ENTER HERE</a></p>
 
-
+<p style="text-align: center; font-size: 8pt;"><i>(If you are having trouble with the submission link, please open it in a private browsing window and try again)</i></p>
 
 For past events, see our [events](events.html) page. You can contact us on [Facebook](https://facebook.com/OpticsOtago) or at [otago.osa.spie@gmail.com](mailto:otago.osa.spie@gmail.com)
 
