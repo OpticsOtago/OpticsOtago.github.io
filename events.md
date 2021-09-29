@@ -10,7 +10,7 @@ You can find some information about our antics on the [Otago Optics Chapter page
 
 The Capture Science photography competitions are one of our favourite ways of encouraging people to examine the science that surrounds them. Any they win awesome prizes.
 
-- [Capture Science 2020](./2020-capture_science)
+- [Gallery: 2021 - Order and Chaos](https://opticsotago.github.io/CaptSci2021/)
 - [Gallery: 2020 - Motion and Time](https://opticsotago.github.io/CaptSci2020/)
 - [Gallery: 2018 - Energy and Forces](https://opticsotago.github.io/CaptSci2018/)
 - [Gallery: 2017 - H<sub>2</sub>O](https://opticsotago.github.io/CaptSci2017/)
