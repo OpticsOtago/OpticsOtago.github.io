@@ -7,7 +7,7 @@ big_img_label: "Capture Science 2022: Laws of Nature"
 <div style="text-align: right; font-size: 10pt;">
 Banner image: Sharon Cook, Capture Science: Order and Chaos
 </div>
-
+<br>
 The Otago Optics Chapter is back with another exciting photo competition: **Capture Science: Laws of Nature**
 
 
