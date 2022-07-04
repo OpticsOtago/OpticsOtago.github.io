@@ -1,6 +1,6 @@
 ---
 layout: halfpage
-bigimg: capture_science/header.png
+bigimg: capture_science/banner2.png
 big_img_label: "Capture Science 2022: Laws of Nature"
 ---
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/semantic-ui@2.4.2/dist/semantic.min.css">
