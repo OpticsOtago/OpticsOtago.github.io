@@ -1,14 +1,14 @@
 ---
 layout: halfpage
 bigimg: capture_science/banner.jpg
-big_img_label: "Capture Science 2020: Motion and Time"
+big_img_label: "Capture Science 2022: Laws of Nature"
 ---
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/semantic-ui@2.4.2/dist/semantic.min.css">
 <div style="text-align: right; font-size: 10pt;">
-Banner image: Shae MacMillan, Prize Winner, Capture Science: Energy and Forces
+Banner image: Sharon Cook, Capture Science: Order and Chaos
 </div>
 
-The [Otago Optics Chapter](https://www.otago.ac.nz/physics/postgraduate/current-students/osa-spie-university-of-otago-student-chapters.html) is back with another exciting photo competition: **Capture Science: Motion and Time**
+The Otago Optics Chapter is back with another exciting photo competition: **Capture Science: Laws of Nature**
 
 
 The photography competition encourages entrants to explore the science of the incredible world around us. Entry to the photo competition is free, and open to people of all ages and photography skill levels. Each entry should be accompanied by a 30-150 word caption that includes an explanation of some science present in the photo. The photo and caption will be judged on three criteria: 
@@ -17,7 +17,7 @@ The photography competition encourages entrants to explore the science of the in
 2. aesthetic appeal, and 
 3. the level of clarity of the science portrayed and described in the caption.
 
-Entries close at 5pm on Sunday **21st June 2020**
+Entries close at 5pm on Sunday **7th August 2022**
 
 <div style="text-align:center">
 <div class="ui huge teal button" onclick="window.location.href='https://script.google.com/macros/s/AKfycbyzSzqk1UKLFz9f3azIW9mSWPzLGfnmMXPea0L8ohv4CIe5H8rM/exec';">Enter Here</div>
@@ -32,5 +32,5 @@ Follow the even on [Facebook]() **TO DO: LINK TO FB EVENT ONCE CREATED**
 --->
 ## Exhibition
 After the competition there will be an exhibition to display the top entries
- - When: **11th - 19th July**
+ - When: **5th - 11th September**
  - Where: **Otago Museum**, 419 Great King Street, Dunedin
