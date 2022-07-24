@@ -23,7 +23,7 @@ Entries close at 5pm on Sunday **7th August 2022**
 <div class="ui huge teal button" onclick="window.location.href='https://script.google.com/macros/s/AKfycbyzSzqk1UKLFz9f3azIW9mSWPzLGfnmMXPea0L8ohv4CIe5H8rM/exec';">Enter Here</div>
 </div>
 
-Please see the [terms and conditions](https://docs.google.com/document/d/e/2PACX-1vQkIJuqqFZbrSGHHHR2jmQAMIKrC7Cq9knv3p0_ouwk3ZDGv3HpsuQXNPFz936n6_waACNrTo1pAnHK/pub).
+Please see the [terms and conditions](https://docs.google.com/document/d/e/2PACX-1vTaQ-ppYvAGO-7rnkuIdsUEWMFHAonWSkQGrYoyrbUfdDDCqDrKWKwCMcWdLK5Dv0NLnSpNxA16cqIf/pub).
 
 <!---
 , and to submit your photograph entries, click the button below
