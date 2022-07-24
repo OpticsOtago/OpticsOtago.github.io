@@ -20,7 +20,7 @@ The photography competition encourages entrants to explore the science of the in
 Entries close at 5pm on Sunday **7th August 2022**
 
 <div style="text-align:center">
-<div class="ui huge teal button" onclick="window.location.href='https://script.google.com/macros/s/AKfycbyzSzqk1UKLFz9f3azIW9mSWPzLGfnmMXPea0L8ohv4CIe5H8rM/exec';">Enter Here</div>
+<div class="ui huge teal button" onclick="window.location.href='https://forms.gle/9fH5Z5Jop67wTh626';">Enter Here</div>
 </div>
 
 Please see the [terms and conditions](https://docs.google.com/document/d/e/2PACX-1vTaQ-ppYvAGO-7rnkuIdsUEWMFHAonWSkQGrYoyrbUfdDDCqDrKWKwCMcWdLK5Dv0NLnSpNxA16cqIf/pub).
