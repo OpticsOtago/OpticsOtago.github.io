@@ -32,5 +32,5 @@ Follow the even on [Facebook]() **TO DO: LINK TO FB EVENT ONCE CREATED**
 --->
 ## Exhibition
 After the competition there will be an exhibition to display the top entries
- - When: **5th - 11th September**
+ - When: **26th - 30th September**
  - Where: **Otago Museum**, 419 Great King Street, Dunedin
