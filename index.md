@@ -17,7 +17,7 @@ The photography competition encourages entrants to explore the science of the in
 2. aesthetic appeal, and 
 3. the level of clarity of the science portrayed and described in the caption.
 
-Entries close at 5pm on Sunday **21st August 2022**
+Entries close at 5pm on Sunday **28th August 2022**
 
 <div style="text-align:center">
 <div class="ui huge teal button" onclick="window.location.href='https://forms.gle/9fH5Z5Jop67wTh626';">Enter Here</div>
