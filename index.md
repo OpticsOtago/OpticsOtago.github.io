@@ -8,22 +8,11 @@ big_img_label: "Capture Science 2022: Laws of Nature"
 Banner image: Sharon Cook, Capture Science: Order and Chaos
 </div>
 <br>
-The Otago Optics Chapter is back with another exciting photo competition: **Capture Science: Laws of Nature**
+The [Otago Optics Chapter](https://www.otago.ac.nz/physics/postgraduate/current-students/osa-spie-university-of-otago-student-chapters.html) would like say a huge thanks all who entered our photo competition this year, **Capture Science - Laws of Nature.**! Judging will commence soon, and following this we will contact winners by email. 
 
+The winning entries will be exhibited at the Otago Museum (419 Great King Street, Dunedin) from the **26th - 30th September**. Follow this page or our [Facebook event page](https://fb.me/e/DpNgCDON) for latest details.
 
-The photography competition encourages entrants to explore the science of the incredible world around us. Entry to the photo competition is free, and open to people of all ages and photography skill levels. Each entry should be accompanied by a 30-150 word caption that includes an explanation of some science present in the photo. The photo and caption will be judged on three criteria: 
-
-1. Originality,
-2. aesthetic appeal, and 
-3. the level of clarity of the science portrayed and described in the caption.
-
-Entries close at 5pm on Sunday **28th August 2022**
-
-<div style="text-align:center">
-<div class="ui huge teal button" onclick="window.location.href='https://forms.gle/9fH5Z5Jop67wTh626';">Enter Here</div>
-</div>
-
-Please see the [terms and conditions](https://docs.google.com/document/d/e/2PACX-1vTaQ-ppYvAGO-7rnkuIdsUEWMFHAonWSkQGrYoyrbUfdDDCqDrKWKwCMcWdLK5Dv0NLnSpNxA16cqIf/pub).
+For past events, see our [events](events.html) page. You can contact us on [Facebook](https://facebook.com/OpticsOtago) or at [otago.osa.spie@gmail.com](mailto:otago.osa.spie@gmail.com)
 
 <!---
 , and to submit your photograph entries, click the button below
